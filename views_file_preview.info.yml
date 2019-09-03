@@ -1,0 +1,7 @@
+name: Views file preview
+type: module
+description: Views preview field for managed files
+core: 8.x
+package: views
+depencencies:
+  - views

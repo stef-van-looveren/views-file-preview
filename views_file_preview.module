@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Implements hook_views_data_alter().
+ */
+function views_file_preview_views_data_alter(array &$data) {
+
+  $data['file_managed']['file_preview'] = array(
+    'title' => t('File preview'),
+    'field' => array(
+      'title' => t('File preview'),
+      'help' => t('Shows a thumbnail of a file (custom).'),
+      'id' => 'file_preview',
+    ),
+  );
+
+}
