@@ -2,7 +2,7 @@
 This drupal 8 helper module will add an extra field to your views overview. This helps content editors to see which file is being meant. In combination with entity browser is this a big win for your usability. Enjoy!
 
 [<img src="http://i3.ytimg.com/vi/WoFRMAng0hY/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=WoFRMAng0hY)
-
+(click the image to see the video)
 ## Blog & snippets
 More drupal code & snippets at: [stefvanlooveren.me](https://stefvanlooveren.me).
 ## Thanks
